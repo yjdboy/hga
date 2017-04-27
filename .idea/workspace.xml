@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b2387197-dbea-4b58-bcab-25efaa080736" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/a/123.html" />
+<<<<<<< HEAD
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/a/第三方.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ab/456.txt" afterPath="$PROJECT_DIR$/ab/456.txt" />
+>>>>>>> master
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +25,13 @@
       <file leaf-file-name="123.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/a/123.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="252">
               <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+=======
+            <state relative-caret-position="144">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+>>>>>>> master
               <folding />
             </state>
           </provider>
@@ -86,6 +96,19 @@
               <option name="myItemId" value="movietalk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
+=======
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movietalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="movietalk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+>>>>>>> master
             <PATH_ELEMENT>
               <option name="myItemId" value="a" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -185,12 +208,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493257819975</updated>
+<<<<<<< HEAD
       <workItem from="1493257821230" duration="293000" />
+=======
+      <workItem from="1493257821230" duration="95000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="293000" />
+=======
+    <option name="totallyTimeSpent" value="95000" />
+>>>>>>> master
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -227,8 +258,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/a/123.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="252">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+=======
+        <state relative-caret-position="144">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+>>>>>>> master
           <folding />
         </state>
       </provider>
